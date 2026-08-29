@@ -1,0 +1,17 @@
+{
+  "name": "Debt Tracker & Payoff Planner",
+  "short_name": "Debt Planner",
+  "description": "Track debt balances, APRs, monthly payments, and payoff strategy comparisons.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#3a7bd5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

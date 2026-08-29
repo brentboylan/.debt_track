@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Debt planner icon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#3a7bd5" />
+      <stop offset="100%" stop-color="#1d5fbd" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="48" fill="#edf5ff"/>
+  <rect x="48" y="72" width="160" height="110" rx="18" fill="url(#g)"/>
+  <path d="M72 184h112" stroke="#ffffff" stroke-width="14" stroke-linecap="round"/>
+  <path d="M80 144h24v-40h28v40h16v-64h24v64h20v-28h16v28H80z" fill="#ffffff" opacity="0.9"/>
+  <circle cx="186" cy="82" r="26" fill="#f59e0b"/>
+  <path d="M186 64v36M168 82h36" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+</svg>
